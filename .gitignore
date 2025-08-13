@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+.venv/
+venv/
+.env
+**/.env
+
+# VSCode / Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node/JS
+node_modules/
+.npm/
+.yarn/
+.dist/
+build/
+dist/
+
+# Local tools/binaries
+/tunnel/
+**/cloudflared.exe

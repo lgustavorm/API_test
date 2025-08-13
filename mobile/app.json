@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Save Mobile",
+    "slug": "save-mobile",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
